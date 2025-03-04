@@ -1,0 +1,8 @@
+   ┓    •     ┃   %s
+┏┓┏┃┏┓┏┓┓┏┓   ┃   %n
+┛┗┗┗┗┛┗┫┗┛┗   ┃   %m
+       ┛      ┃   logged in users: %u
+not cursed    ┃   %l
+              ┃   %d
+F1: reboot    ┃   %t
+F2: shutdown  ┃   %U
